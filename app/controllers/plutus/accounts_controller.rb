@@ -11,7 +11,7 @@ module Plutus
   #
   # @author Michael Bulat
   class AccountsController < Plutus::ApplicationController
-    unloadable
+    # unloadable
 
     # @example
     #   GET /accounts
